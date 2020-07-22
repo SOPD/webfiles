@@ -50447,7 +50447,7 @@ case 3:o=b
 n=H.a([],u.dB)
 m=C.aE.dH(0,o)
 for(q=J.an(m),p=0;p<q.gl(m);++p){J.a6(q.h(m,p),"name")
-n.push(new D.l1(J.a6(q.h(m,p),"name"),J.a6(q.h(m,p),"url")))}r=n
+n.push(new D.l1(J.a6(q.h(m,p),"title"),J.a6(q.h(m,p),"url")))}r=n
 t=1
 break
 case 1:return P.ac(r,s)}})
@@ -50463,7 +50463,7 @@ c=H.a([],u.bK)
 b=C.aE.dH(0,d)
 a=J.an(b)
 a0=a.h(b,"data")
-a1=a.h(b,"name")
+a1=a.h(b,"title")
 for(a=J.an(a0),q=u.S,p=u.i,o=u.N,n=0;n<a.gl(a0);++n){m=a.h(a0,n)
 l=J.an(m)
 k=l.h(m,0)
